@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "word": "Hola",
+    "pronunciation": "oh-lah",
+    "meaning": "Hello",
+    "part_of_speech": "interjection",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "To greet someone in Spanish.",
+    "example": "Hola, ¿cómo estás? (Hello, how are you?)"
+  },
+  {
+    "id": "2",
+    "word": "Gracias",
+    "pronunciation": "grah-syahs",
+    "meaning": "Thank you",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "To express gratitude.",
+    "example": "Gracias por tu ayuda. (Thank you for your help.)"
+  },
+  {
+    "id": "3",
+    "word": "Amor",
+    "pronunciation": "ah-more",
+    "meaning": "Love",
+    "part_of_speech": "noun",
+    "difficulty": "medium",
+    "lesson_no": 2,
+    "when_to_say": "To talk about feelings or relationships.",
+    "example": "El amor es importante. (Love is important.)"
+  },
+  {
+    "id": "4",
+    "word": "Comer",
+    "pronunciation": "koh-mehr",
+    "meaning": "To eat",
+    "part_of_speech": "verb",
+    "difficulty": "easy",
+    "lesson_no": 2,
+    "when_to_say": "When discussing food or meals.",
+    "example": "Voy a comer una ensalada. (I am going to eat a salad.)"
+  },
+  {
+    "id": "5",
+    "word": "Bonito",
+    "pronunciation": "boh-nee-toh",
+    "meaning": "Beautiful",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "To describe something or someone attractive.",
+    "example": "El paisaje es muy bonito. (The landscape is very beautiful.)"
+  },
+  {
+    "id": "6",
+    "word": "Rápido",
+    "pronunciation": "rah-pee-doh",
+    "meaning": "Fast",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "When describing speed.",
+    "example": "El coche es muy rápido. (The car is very fast.)"
+  },
+  {
+    "id": "7",
+    "word": "Feliz",
+    "pronunciation": "feh-lees",
+    "meaning": "Happy",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "To express joy or describe emotions.",
+    "example": "Estoy muy feliz hoy. (I am very happy today.)"
+  },
+  {
+    "id": "8",
+    "word": "Libros",
+    "pronunciation": "lee-bros",
+    "meaning": "Books",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "When referring to reading materials.",
+    "example": "Me gustan los libros de aventuras. (I like adventure books.)"
+  },
+  {
+    "id": "9",
+    "word": "Estudiar",
+    "pronunciation": "eh-stoo-dee-ar",
+    "meaning": "To study",
+    "part_of_speech": "verb",
+    "difficulty": "medium",
+    "lesson_no": 5,
+    "when_to_say": "When talking about learning or school activities.",
+    "example": "Voy a estudiar español. (I am going to study Spanish.)"
+  },
+  {
+    "id": "10",
+    "word": "Hermano",
+    "pronunciation": "ehr-mah-noh",
+    "meaning": "Brother",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "When referring to a male sibling.",
+    "example": "Mi hermano vive en Madrid. (My brother lives in Madrid.)"
+  }
+]
